@@ -1,0 +1,1 @@
+"This Power BI dashboard provides an interactive analysis of the dataset by visualizing key performance metrics such as sales, profit, and customer segments. It includes slicers, charts, and KPIs that help users explore trends, compare categories, and gain insights for decision-making."
